@@ -1,0 +1,13 @@
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ExceptionsBase.ResourceErrorMessages.resources
+C:\Users\gessi\Downloads\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
